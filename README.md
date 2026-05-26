@@ -228,22 +228,6 @@ Returns:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-```bash
-Fork → Create Branch → Commit → Push → Pull Request
-```
-
-
-
-## ⭐ Support
-If you like this project:
-
-⭐ Star the repository
-🍴 Fork the project
-🛠️ Contribute improvements
 ---
 ## 📌 Repository Link
 
